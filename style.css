@@ -17,11 +17,20 @@ body {
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+    justify-content: space-between;
+    white-space: nowrap;
 }
 
-.stats-container {
+.stats-container  {
     display: flex;
+    align-items: center;
 }
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
+
 
 .stats-card {
     background-color: #a8b0bc;
@@ -32,7 +41,9 @@ body {
     text-align: center;
 }
 
-#num-contributions, #total-raised, #num-games {
+#num-contributions,
+#total-raised,
+#num-games {
     font-size: 50px;
 }
 
@@ -64,6 +75,7 @@ body {
 
 #button-container {
     text-align: center;
+    color: lightblue;
 }
 
 button {
@@ -72,4 +84,23 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+    color: #758190;
+    background-color:lightblue ;
+}
+/* Search bar styling */
+.search-bar-container {
+    display: flex;
+    justify-content: flex-end; /* Aligns the search bar to the right */
+    align-items: center;
+    width: 100%;
+    padding: 10px;
+}
+
+#search {
+    border-radius: 20px; /* Rounded edges */
+    padding: 10px;
+    border: 1px solid #ccc;
+    outline: none;
+    width: 250px; /* Adjust width as needed */
+    font-size: 16px; /* Optional: to match the font size with your site's design */
 }
