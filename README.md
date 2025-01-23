@@ -1,6 +1,6 @@
 # WEB102 Prework - *Sea Monster Game Dashboard*
 
-Submitted by: **Bettina**
+Submitted by: **Bettina George**
 
 **Sea Monster Game Dasboard** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
