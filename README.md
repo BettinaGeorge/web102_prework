@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here’s a walkthrough of implemented features:
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/1049530675?h=b0aa72af6c" width="100%" height="360" frameborder="0" allowfullscreen></iframe>
+[![Video Walkthrough](https://via.placeholder.com/640x360.png?text=Click+to+Watch)](https://player.vimeo.com/video/1049530675?h=b0aa72af6c)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
