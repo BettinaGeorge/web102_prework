@@ -21,11 +21,11 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here’s a walkthrough of implemented features:
+Here’s a walkthrough of implemented 
 
-[![Video Walkthrough](https://vumbnail.com/1049530675.jpg)](https://player.vimeo.com/video/1049530675?h=b0aa72af6c)
+https://github.com/user-attachments/assets/70370d1a-6ee7-45b6-95ca-d5d1fb81edef
 
-**Click Me!**
+
 
 
 
