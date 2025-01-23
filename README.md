@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here’s a walkthrough of implemented features:
 
-[![Video Walkthrough](https://via.placeholder.com/640x360.png?text=Click+to+Watch)](https://player.vimeo.com/video/1049530675?h=b0aa72af6c)
+[![Video Walkthrough](https://vumbnail.com/1049530675.jpg)](https://player.vimeo.com/video/1049530675?h=b0aa72af6c)
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
