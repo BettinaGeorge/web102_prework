@@ -38,7 +38,9 @@ GIF created with Ipad Screenrecorder and Vimeo
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This project wasn’t particularly too challenging, but it did require me to revise and solidify my coding knowledge, which turned out to be a great learning experience. Understanding the code structure and how different components interacted took some time, but breaking it down step by step made it manageable.
+
+I also revisited the destructuring method in JavaScript, which was a good opportunity to refresh my understanding and practice applying it in a real-world context. Revising these concepts not only helped me complete the project but also gave me more confidence in my coding skills.
 
 ## License
 
