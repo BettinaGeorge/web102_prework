@@ -21,9 +21,10 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here’s a walkthrough of implemented features:
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/1049530675?h=b0aa72af6c" width="640" height="360" frameborder="0"    allowfullscreen></iframe>' title='Video Walkthrough' width='100%' alt='Video Walkthrough' />
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1049530675?h=b0aa72af6c" width="100%" height="360" frameborder="0" allowfullscreen></iframe>
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Ipad Screenrecorder and Vimeo 
