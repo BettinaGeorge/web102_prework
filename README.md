@@ -24,6 +24,7 @@ The following **optional** features are implemented:
 Here’s a walkthrough of implemented features:
 
 [![Video Walkthrough](https://vumbnail.com/1049530675.jpg)](https://player.vimeo.com/video/1049530675?h=b0aa72af6c)
+**Click Me!**
 
 
 
