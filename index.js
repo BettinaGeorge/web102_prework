@@ -158,7 +158,10 @@ const fundedCount = funded.length;  // Simplified to use the length of the filte
 const displayStr = `A total of $${fundedAmount.toLocaleString()} has been raised for ${fundedCount} games. Currently, ${unfundedCount} game${unfundedCount !== 1 ? 's' : ''} remain unfunded. We need your help to fund these amazing games!`
 
 // create a new DOM element containing the template string and append it to the description container
-descriptionContainer.innerHTML = `<div>${displayStr}</div>`;
+const newElement = document.createElement("p");
+newElement.textContent = displayStr; // Set your content
+descriptionContainer.appendChild(newElement); // Append instead of replacing
+
 
 /************************************************************************************
  * Challenge 7: Select & display the top 2 games
