@@ -1,32 +1,36 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Game Dashboard*
 
-Submitted by: **Your Name Here**
+Submitted by: **Bettina George**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Game Dasboard** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **24** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Search Bar Feature to allow users search from their desired game.
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here’s a walkthrough of implemented 
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://github.com/user-attachments/assets/70370d1a-6ee7-45b6-95ca-d5d1fb81edef
+
+
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Ipad Screenrecorder and Vimeo 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,11 +38,13 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This project wasn’t particularly too challenging, but it did require me to revise and solidify my coding knowledge, which turned out to be a great learning experience. Understanding the code structure and how different components interacted took some time, but breaking it down step by step made it manageable.
+
+I also revisited the destructuring method in JavaScript, which was a good opportunity to refresh my understanding and practice applying it in a real-world context. Revising these concepts not only helped me complete the project but also gave me more confidence in my coding skills.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Bettina George]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
