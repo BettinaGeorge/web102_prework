@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here’s a walkthrough of implemented 
 
-https://github.com/user-attachments/assets/70370d1a-6ee7-45b6-95ca-d5d1fb81edef
+https://github.com/user-attachments/assets/f0371f12-e7e8-4dc3-91f8-11b9beee25e6
+
 
 
 
